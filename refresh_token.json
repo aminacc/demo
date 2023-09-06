@@ -1,0 +1,48 @@
+{
+  "access_token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImEzMmZkZDRiMTQ2Njc3NzE5YWIyMzcyODYxYmRlZDg5In0.eyJpc3MiOiI3MzJlYjQ2MjY0NzMyZWI0NjI2NDcxODAwNjFkMWY3MTgwMDYxZDFmIiwiYXVkIjoiYXBpIDEiLCJzdWIiOiI5Mzc3NzE3YmVmNWE0OGMyODliYWEyZDI0MjM2N2NhNSIsImV4cCI6MzE2OTQwMzI5MjQsImlhdCI6MTY5NDAzMjkyNCwidXNlcm5hbWUiOiJhbWluZGFsdmFuZCJ9.q_elXk1U6UGfY81cSn2CFBAyaHLLLPw5iLMy5Sdbq1g8KuZP5L27VJBpLfZiHXPfsvs6r5lZjBQ2j2PAIfMNsQ",
+  "uuid": "b01bbc64-24c2-4e68-86cd-c06e3b95ec31",
+  "from": "custom-db",
+  "password": "admin",
+  "role": "admin",
+  "data": {
+    "displayName": "کاربر میهمان",
+    "photoURL": "",
+    "email": "demo@monirs.com",
+    "settings": {
+      "layout": {
+        "style": "layout1",
+        "config": {
+          "scroll": "content",
+          "navbar": {
+            "display": true,
+            "folded": true,
+            "position": "left"
+          },
+          "toolbar": {
+            "display": true,
+            "style": "fixed",
+            "position": "below"
+          },
+          "footer": {
+            "display": true,
+            "style": "fixed",
+            "position": "below"
+          },
+          "mode": "fullwidth"
+        }
+      },
+      "customScrollbars": true,
+      "theme": {
+        "main": "default",
+        "navbar": "greyDark",
+        "toolbar": "mainThemLight",
+        "footer": "mainThemDark"
+      }
+    },
+    "shortcuts": [
+      "calendar",
+      "mail",
+      "contacts"
+    ]
+  }
+}
